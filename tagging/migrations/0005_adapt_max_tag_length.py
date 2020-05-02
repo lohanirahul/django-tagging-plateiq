@@ -5,7 +5,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('tagging', '0002_on_delete'),
+        ('tagging', '0004_auto_20170802_1747'),
     ]
 
     operations = [
